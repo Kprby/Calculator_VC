@@ -1,0 +1,9 @@
+﻿  calculator.cpp
+  calculator_windows.cpp
+  HelpForm.cpp
+  MyForm.cpp
+  正在生成代码...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  calculator.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  calculator_windows.vcxproj -> D:\Gaby\作品\Calculator_Windows VC\Debug\calculator_windows.exe
+  calculator_windows.vcxproj -> D:\Gaby\作品\Calculator_Windows VC\Debug\calculator_windows.pdb (Partial PDB)
