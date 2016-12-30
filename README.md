@@ -1,4 +1,4 @@
-<center><b><font size=6 face="黑体">科学型计算器</font></b></center>  
+# 科学型计算器
 
 
 ----------
